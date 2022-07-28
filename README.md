@@ -6,8 +6,8 @@ This program is built to demonstrate the OOP in Python.
 
 
 ## Features
-- To read the NEOs data from CSV/Json file and represent in a python object.
-- To filter the data based on multiple criteria
+- To read the NEOs data from CSV/JSON files and represent the data in a python object.
+- To filter the data based on criteria like distance, velocity, date, diameter, hazardous. 
 - If required to write the filtered data in CSV/Json file.
 
 ## Getting Started
